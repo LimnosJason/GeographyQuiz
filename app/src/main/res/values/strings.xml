@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Geography Quiz</string>
+    <string name="game_name">Geography Quiz</string>
+    <string name="planet_photo">Earth Planet Photo</string>
+    <string name="flag_button">Guess the Flag</string>
+    <string name="country_button">Guess the Country</string>
+    <string name="user_name">User Name</string>
+    <string name="user_photo">User Photo</string>
+    <string name="flag_score_title">Flag Score</string>
+    <string name="flag_score_number">Your score is:</string>
+    <string name="outline_score_title">Outline Score</string>
+    <string name="outline_score_number">Your score is:</string>
+    <string name="search_country">Search Country</string>
+    <string name="flag_high_score">Flag High Score</string>
+    <string name="outline_high_score">Outline High Score</string>
+</resources>
